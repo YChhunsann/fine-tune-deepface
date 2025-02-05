@@ -25,7 +25,7 @@ To detect and classify the emotional state of babies in images based on the give
     ```
     pip install -r requirements.txt
     ```
-3. Train the model by following the training script `fine_tune_deepface`.
+3. Train the model by following the training script `fine_tune_deepface.py`.
 4. Use the `test_manually.py` and `real_time_testing.py` script to test the model on new images or real-time video.
 
 ## Model:
